@@ -1,0 +1,397 @@
+# depslib dependency file v1.0
+1717643156 source:c:\users\ertsy\onedrive\escritorio\trabajo integrados\tpintegrador\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1717646229 source:c:\users\ertsy\onedrive\escritorio\trabajo integrados\tpintegrador\menu.cpp
+	"menu.h"
+	<iostream>
+
+1717646244 c:\users\ertsy\onedrive\escritorio\trabajo integrados\tpintegrador\menu.h
+
+1717646367 source:c:\users\ertsy\onedrive\escritorio\trabajo integrados\tpintegrador\main.cpp
+	<iostream>
+	"funciones.h"
+	"menu.h"
+
+1717642834 c:\users\ertsy\onedrive\escritorio\trabajo integrados\tpintegrador\funciones.h
+
+1717950047 source:f:\agusss\codificacion\tpi\mainn\funciones.cpp
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+
+1717950180 f:\agusss\codificacion\tpi\mainn\funciones.h
+	<stdlib.h>
+	<time.h>
+
+1717950591 source:f:\agusss\codificacion\tpi\mainn\main.cpp
+	<iostream>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+	"funciones.h"
+	"menu.h"
+
+1717646244 f:\agusss\codificacion\tpi\mainn\menu.h
+
+1717713428 source:f:\agusss\codificacion\tpi\mainn\menu.cpp
+	"menu.h"
+	<iostream>
+
+1718256172 source:f:\sas\tps facu\tp1\funciones.cpp
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+
+1718255991 f:\sas\tps facu\tp1\funciones.h
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+
+1718256146 source:f:\sas\tps facu\tp1\main.cpp
+	<iostream>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+	"funciones.h"
+	"menu.h"
+
+1717646244 f:\sas\tps facu\tp1\menu.h
+
+1718158192 source:f:\sas\tps facu\tp1\menu.cpp
+	"menu.h"
+	<iostream>
+
+1718320587 source:c:\users\ertsy\desktop\nueva carpeta\tp1\funciones.cpp
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+
+1718320267 c:\users\ertsy\desktop\nueva carpeta\tp1\funciones.h
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+
+1718358981 source:c:\users\ertsy\desktop\nueva carpeta\tp1\menu.cpp
+	"menu.h"
+	<iostream>
+
+1718358981 c:\users\ertsy\desktop\nueva carpeta\tp1\menu.h
+
+1718358981 source:c:\users\ertsy\desktop\nueva carpeta\tp1\main.cpp
+	<iostream>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+	"funciones.h"
+	"menu.h"
+
+1718385124 source:d:\tp1\funciones.cpp
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+
+1718384986 d:\tp1\funciones.h
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+
+1718359192 source:d:\tp1\main.cpp
+	<iostream>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+	"funciones.h"
+	"menu.h"
+
+1718358982 d:\tp1\menu.h
+
+1718358982 source:d:\tp1\menu.cpp
+	"menu.h"
+	<iostream>
+
+1718393301 source:c:\users\alumno\desktop\tp1\funciones.cpp
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+
+1718391044 c:\users\alumno\desktop\tp1\funciones.h
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+
+1718358982 source:c:\users\alumno\desktop\tp1\menu.cpp
+	"menu.h"
+	<iostream>
+
+1718358982 c:\users\alumno\desktop\tp1\menu.h
+
+1718393197 source:c:\users\alumno\desktop\tp1\main.cpp
+	<iostream>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+	"funciones.h"
+	"menu.h"
+
+1718666897 source:c:\users\ertsy\desktop\tp integrador 1.1\tp1\funciones.cpp
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+
+1718665128 c:\users\ertsy\desktop\tp integrador 1.1\tp1\funciones.h
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+
+1718665128 source:c:\users\ertsy\desktop\tp integrador 1.1\tp1\main.cpp
+	<iostream>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+	"funciones.h"
+	"menu.h"
+
+1718605253 c:\users\ertsy\desktop\tp integrador 1.1\tp1\menu.h
+
+1718605266 source:c:\users\ertsy\desktop\tp integrador 1.1\tp1\menu.cpp
+	"menu.h"
+	<iostream>
+
+1719328466 source:f:\agusss\codificacion\tpi\32131231\funciones.cpp
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+
+1719325565 f:\agusss\codificacion\tpi\32131231\funciones.h
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+
+1719328597 source:f:\agusss\codificacion\tpi\32131231\main.cpp
+	<iostream>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+	"funciones.h"
+	"menu.h"
+
+1718605253 f:\agusss\codificacion\tpi\32131231\menu.h
+
+1718605266 source:f:\agusss\codificacion\tpi\32131231\menu.cpp
+	"menu.h"
+	<iostream>
+
+1719431793 source:c:\users\ertsy\desktop\z\funciones.cpp
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+
+1719412547 c:\users\ertsy\desktop\z\funciones.h
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+
+1718605266 source:c:\users\ertsy\desktop\z\menu.cpp
+	"menu.h"
+	<iostream>
+
+1718605253 c:\users\ertsy\desktop\z\menu.h
+
+1719522864 source:c:\users\ertsy\desktop\z\main.cpp
+	<iostream>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+	"funciones.h"
+	"menu.h"
+
+1719530982 source:c:\users\ertsy\desktop\tp backup\funciones.cpp
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+
+1719529409 c:\users\ertsy\desktop\tp backup\funciones.h
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+
+1719530982 source:c:\users\ertsy\desktop\tp backup\main.cpp
+	<iostream>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+	"funciones.h"
+	"menu.h"
+
+1718605253 c:\users\ertsy\desktop\tp backup\menu.h
+
+1719531442 source:c:\users\ertsy\desktop\tp backup\menu.cpp
+	"menu.h"
+	<iostream>
+
+1719530982 source:c:\users\ertsy\desktop\tp casi entrega final\tp backup\funciones.cpp
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+
+1739403510 c:\users\ertsy\desktop\tp casi entrega final\tp backup\funciones.h
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+
+1739403483 source:c:\users\ertsy\desktop\tp casi entrega final\tp backup\main.cpp
+	<iostream>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+	"funciones.h"
+	"menu.h"
+
+1739403435 c:\users\ertsy\desktop\tp casi entrega final\tp backup\menu.h
+
+1739403787 source:c:\users\ertsy\desktop\tp casi entrega final\tp backup\menu.cpp
+	"menu.h"
+	<iostream>
+
+1719530982 source:c:\users\ertsy\desktop\tp 2025\tp backup\funciones.cpp
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+
+1739403510 c:\users\ertsy\desktop\tp 2025\tp backup\funciones.h
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+
+1739649501 source:c:\users\ertsy\desktop\tp 2025\tp backup\main.cpp
+	<iostream>
+	<cstdlib>
+	<random>
+	<vector>
+	<ctime>
+	"funciones.h"
+	"menu.h"
+
+1739403435 c:\users\ertsy\desktop\tp 2025\tp backup\menu.h
+
+1739569023 source:c:\users\ertsy\desktop\tp 2025\tp backup\menu.cpp
+	"menu.h"
+	<iostream>
+
