@@ -1,0 +1,3 @@
+Como funciona el codigo (explicado con mis palabras)
+
+Empieza en el main con un switch encerrado en un while el cual no termina hasta que el usuario no ingrese la opcion para salir del programa  
