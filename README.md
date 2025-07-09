@@ -2,7 +2,7 @@
 Este es mi primer proyecto en c++, es un juego de cartas llamado embaucado
 
 ---------------------------------------
-         < REGLAS DEL JUEGO >
+----------< REGLAS DEL JUEGO >---------
 ---------------------------------------
 
 Al iniciar la ronda cada jugador recibira
@@ -13,18 +13,29 @@ una mano de 5 cartas aleatorias 4 palos
                 - Trebol
                 - Diamantes
                 - Corazon
-               < VALORES >
 
 Ya generadas las cartas aleatorias se suman
 sus valores, el jugador con el total mas alto
 gana la ronda. 
 
+---------------------------------------
+-----------------VALORES--------------- 
+---------------------------------------
+NUMEROS
 
- Del 1 - 10 Equivalen su valor tal cual
- 
+             1 - Equivale a 1
+             5 - Equivale a 5
+             10 - Equivale a 10    
+     Del 1 - 10 Equivalen su valor tal cual
+
+LETRAS
+
              J - Equivale a 11
              Q - Equivale a 12
              K - Equivale a 13
+
+
+COSAS A TENER EN CUENTA
 
 - Por cada ronda va a haber un palo embaucado 
 el cual no va a sumar.
